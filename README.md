@@ -1,2 +1,2 @@
 # follow-bot
-Act3nium it is what it says
+it is what it says
